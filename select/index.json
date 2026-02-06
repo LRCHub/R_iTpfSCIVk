@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Pink Pony Club",
+  "base_artist": "Chappell Roan",
+  "createdAt": "2026-02-06T16:04:20.180652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/01_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/02_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/03_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/04_Pink_Pony_Club_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/05_Pink_Pony_Club_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/06_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/07_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/08_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/09_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/10_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/11_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Jordy",
+      "has_synced": true,
+      "path": "select/12_Pink_Pony_Club_Jordy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/13_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/14_Pink_Pony_Club_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chappell Roan - Pink Pony Club (Lyrics)",
+      "artist": "Vibe Music",
+      "has_synced": true,
+      "path": "select/15_Chappell_Roan_-_Pink_Pony_Club_(Lyrics)_Vibe_Music.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "has_synced": false,
+      "path": "select/pl_01_Pink_Pony_Club_Chappell_Roan.txt"
+    }
+  ]
+}
